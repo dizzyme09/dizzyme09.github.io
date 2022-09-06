@@ -19,21 +19,21 @@ const projects = [
     name: 'CRUD App with express and mongodb',
     description:
       'A simple CRUD app with ExpressJS and MongoDB. This app is about a student database.',
-    stack: ['NodeJS', 'MongoDB', 'ExpressJS'],
+    stack: ['ExpressJS', 'MongoDB'],
     sourceCode: 'https://github.com/dizzyme09/CRUD-expressJS',
   },
   {
     name: 'CRUD App with php and mysql',
     description:
       'A simple CRUD app with PHP and MySQL. This is my first project with PHP and MySQL for my college final project.',
-    stack: ['PHP', 'MySQL', 'React'],
+    stack: ['PHP', 'MySQL'],
     sourceCode: 'https://github.com/peminjaman-buku',
   },
   {
     name: 'Website App with Django',
     description:
       'A website application about a simulation of build your own PC (PC Builder look alike). This is my first project with Django for my college final project.',
-    stack: ['Django'],
+    stack: ['Django', 'SQLite'],
     sourceCode: 'https://github.com/dizzyme09/PC-Builder-Simulator',
   },
 ]
